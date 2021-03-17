@@ -1,1 +1,24 @@
+<!DOCTYPE html!>
+<html lang="pt-br">
 
+	<head>
+	
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="style.css">
+		<title>Ada Lovelance: Curiosidades</title>
+		<center>	
+			<h1>Curiosidades sobre Ada Lovelance</h1>
+		</center>
+	
+	</head>
+	
+	<body>
+	
+		<center>
+			<h2>Facínio por máquinas</h2>
+			<p> Em sua infância Ada amava máquinas voadoras, tendo tentado contruir algumas e escreveu um livro, Flyology, com suas ideias e projetos de como decolar. </p>
+		</center>
+	
+	</body>
+
+</html>
