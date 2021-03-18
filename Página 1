@@ -2,68 +2,10 @@
 
 <html lang="pt-br">
 
-	<head>
 	
-		<meta charset="utf-8">
-		<title> Pizzas & e CIA </title>
-		
-	<head>
 	
-	<body>
-        <a name="topo"></a> <!--âncora-->
-        
-    <header>
-		<p><h1><strong> Sabores: </strong></h1> </p>	
-    </header>    
-        
-        <br><br>	   
-            
-
-            <h4><em> 1- CALABRESA. </em></h4>  
-            <p>Massa caseira com <em>passata de tomate</em>, calabresas fritas na manteiga e 
-            recheada com queijo prato.</p> 
 		
-            <h4><em> 2- PORTUGUESA.</em></h4>
-            <p>Massa caseira com presunto, ervilhas, milho e queijo mussarela.</p>
-
-            <h4><em> 3- LOMBINHO. </em></h4>
-            <p>Massa tradicional com tiras de lombo e recheada com queijo gorgonzola.</p>
-
-            <h4><em> 4- MARGUERITA.</em></h4>        
-            <p>Mussarela e folhas frescas de manjericão</p>
-            
-            <h4><em> 5- NAPOLITANA</em></h4>
-            <p>Molho de tomate, alho cru fatiado, parmesão e folhas frescas de manjericão</p>
-             
-            <h4><em> 6- ROMANA</em></h4>
-            <p>Mussarela e filés de aliche italiano </p>
-            
-            <h4><em> 7- ATUM</em></h4>
-            <p>Molho de tomate e atum</p>
-            
-            <h4><em> 8- QUATRO QUEIJOS</em></h4> 
-            <p>Mussarela, gorgonzola, parmesão e Catupiry</p>
-
-            <h4><em> 9- FUNGHI</em></h4>
-            <p>Mussarela, cogumelos shitake, fatias de cebola roxa e salsinha</p>
-
-
-            <br><br>
-            <h3><em>Links abaixo:</em></h3>
-       
-        <ul>
-                <li><a href="Paginas/Imagens.html" target="_blank"> Site para Imagens. </a></li>
-                <li><a href="https://www.google.com/" target="_blank"> GOOGLE </a></li>
-        </ul>
-
-
-            
-            
     
-    
-    <br><br>
-    
-    <a href="#topo">Vai para o topo da pagina</a>
     </body> 
 
 </html>
