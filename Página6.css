@@ -1,0 +1,80 @@
+:root{
+    --clr-primeira-1000: #011526;
+    --clr-segunda-800: #73461F;
+    --clr-terceira-600: #D97218;
+
+    --clr-quarta-400: #F7C368;
+    --clr-quinta-200: #DFE6E8;
+
+    --ff-primaria: "Ubunto", sans-serif;
+}
+
+body{
+    background-color: var(--clr-primeira-1000);
+    font-family: var(--ff-primaria);
+    color: var(--clr-quinta-200);
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: none;
+}
+.text-center{
+    text-align: center;
+    color: var(--clr-quarta-400);
+}
+.curi{
+	text-align: center;
+}
+
+header,
+section{padding: 3rem 0;}
+
+h1,
+h2{
+    font-weight: 900;
+    line-height: 1;
+}
+
+img{
+    max-width: 100%;
+}
+.posi{
+    margin-inline: auto;
+    width: min(90%, 70.5rem);
+}
+.posi--narrow{
+    max-width: center;
+}
+
+.bg_blue{
+    color:var(--clr-primeira-1000);
+    background-image: url(https://www.ctrlplay.com.br/wp-content/uploads/2019/08/Ada-WomenThatDid.jpg);
+    font-size: 35;
+    border-radius: 300px;
+    text-align: left;
+}
+.bg_blue2{
+    color: var(--clr-quinta-200);
+}
+.bg_marron1{
+    background-color: #C5C6C7;
+    color: var(--clr-primeira-1000);
+}
+.bg_marron2{
+    background-color: #8D8E8F;
+    color: var(--clr-primeira-1000);
+}
+.split{
+    display: flex;
+    flex-direction: column;
+}
+@media (min-width: 55em){
+    .split {
+        flex-direction: row;
+    }
+    .split > *{
+        flex-basis: 100%;
+    }
+    .split > *{
+        margin-left: 2em;
+    }
+}
