@@ -33,6 +33,7 @@ h2{
     font-weight: 900;
     line-height: 1;
 }
+h3,
 
 img{
     max-width: 100%;
@@ -56,12 +57,10 @@ img{
     color: var(--clr-quinta-200);
 }
 .bg_marron1{
-    background-color: #C5C6C7;
-    color: var(--clr-primeira-1000);
+    color: #73461F;
 }
 .bg_marron2{
-    background-color: #8D8E8F;
-    color: var(--clr-primeira-1000);
+    color: #D97218;
 }
 .split{
     display: flex;
