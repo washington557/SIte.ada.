@@ -1,0 +1,50 @@
+:root {
+    --ff-primaria :  "Ubunto" , sans-serif;
+}
+
+body {background-color : #011526;
+    font-family : var( --ff-primaria );
+    color : #DFE6E8;
+    font-weight :  400px;
+    font-size : 16px;
+}
+
+header ,
+section { padding :  1rem 0 ;}
+
+
+h1 ,
+h2 {
+    font-weight :  900 ;
+    line-height : 1 ;
+}
+
+
+.titulo {
+    color : #011526;
+    background-image :  url(../imagens/Ada-fundo.jpg);
+    background-repeat: no-repeat;
+    font-size :  30;
+    border-radius : 300px;
+    text-align : left;
+    padding: 70px;
+}
+.subti1 {
+    text-align : center;
+    color : #F7C368;
+}
+.subti2 {
+    color :  #73461F;
+    text-align : center;
+}
+
+
+
+.box1 {
+    background-color :  #C5C6C7 ;
+    color :  #011526;
+}
+
+.coluna{
+    display: flex;
+}
