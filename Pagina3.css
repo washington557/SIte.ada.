@@ -1,0 +1,56 @@
+h1{
+	
+	text-align: center;
+	color:#011526;
+	font-size: 60;
+	text-shadow: 2px 2px 2px#595959;
+	letter-spacing: 1px;
+}
+
+body{
+	
+	background: linear-gradient(#994700, #6d3c11);
+	
+}
+
+p{
+
+	font-size: 20;
+	color: #c6e8f0;
+	text-shadow: 2px 2px 2px #8C8C8C;
+	letter-spacing: 1.5px;
+
+}
+
+.classe-1{
+
+	text-align: right;
+	background-image: url(https://cdn.hipwallpaper.com/i/66/57/X3SuAT.jpg);
+	background-color:#73461F;
+	margin-top: 15px;
+
+}
+
+.classe-2{
+	margin-left: 30px;
+	margin-right: 10px;
+	float: left;
+	text-align: left;
+	text-indent: 25px;
+	background: linear-gradient(45deg,#5e3613,#7c5029);
+	box-shadow: 2px 2px 2px #4b2b0f;
+}
+
+h2{
+	font-size: 40;
+	margin-left: 30px;
+	color:#011a30;
+	text-shadow: 2px 2px 2px #666363;
+	letter-spacing: 1.5px;
+}
+
+#adada{
+
+	float: right;
+
+}
