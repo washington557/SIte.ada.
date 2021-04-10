@@ -1,11 +1,75 @@
-<! DOCTYPE html!>
+<!DOCTYPE html>
+<html>
 
-<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>Ada Lovelace</title>
+    <link rel="stylesheet" href="css/indexstyle.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+</head>
 
-	
-	
-		
-    
-    </body> 
+<body>
+
+    <!-- Esse é o conteúdo principal da página -->
+
+    <div>
+        <br>
+        <a href="pag/bibli.html">Bibliografia</a>
+        <a href="pag/obras.html">Obras</a>
+        <a href="pag/imp.html">Impactos</a>
+        <a href="pag/cola.html">Colaborações</a>
+        <a href="pag/curi.html">Curiosidades</a>
+        <a href="pag/refe.html">Referências</a>
+    </div>
+
+    <div class="container">
+
+        <figure>
+            <img src="img/adalovelace.jpeg" alt="Error" align="right">
+        </figure>
+
+        <article>
+
+            <header>
+                <br>
+                <br>
+                <h1>Conheça Ada Lovelace</h1>
+            </header>
+
+            <h3>Matemática do século XIX<br>
+                autora do primeiro programa de computador</h3>
+
+            <p>
+                No momento estou aprendendo a linguagem HTML
+            </P>
+            
+            <p>
+                No momento estou aprendendo a linguagem HTML pelo curso HTML Progressivo.
+                Mas em breve eu pretendo aprender várias linguagens, como PHP.
+            </P>
+            <p>
+                No momento estou aprendendo a linguagem HTML pelo curso HTML Progressivo.
+                Mas em breve eu pretendo aprender várias linguagens, como PHP.
+            </P>
+            <p>
+                No momento estou aprendendo a linguagem HTML pelo curso HTML Progressivo.
+                Mas em breve eu pretendo aprender várias linguagens, como PHP.
+            </P>
+        </article>
+
+    </div>
+
+
+    <!-- Esse é o rodapé principal que vai ser usado em todas as páginas do nosso website -->
+
+    <div class="rodape">
+        <footer>
+            <p>©Copyright 2050 by nobody. All rights reversed.</p>
+        </footer>
+    </div>
+</body>
 
 </html>
