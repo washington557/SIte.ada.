@@ -5,6 +5,9 @@
    
     --clr-quarta-400: #F7C368;
     --clr-quinta-200: #DFE6E8;
+    --clr-setima-100: #8D8E8F;
+    --clr-sexta-000: #C5C6C7;
+    
 
     --ff-primaria: "Ubunto", sans-serif;
 }
@@ -65,11 +68,11 @@ img{
     color: var(--clr-quinta-200);
 }
 .bg_marron1{
-    background-color: #C5C6C7;
+    background-color: var(--clr-sexta-100);
     color: var(--clr-primeira-1000);
 }
 .bg_marron2{
-    background-color: #8D8E8F;
+    background-color: var(--clr-setima-000);
     color: var(--clr-primeira-1000);
 }
 .split{
