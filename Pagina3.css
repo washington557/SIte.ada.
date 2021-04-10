@@ -9,7 +9,7 @@ h1{
 
 body{
 	
-	background: linear-gradient(#994700, #6d3c11);
+	background: linear-gradient(#011526,#02233f);
 	
 }
 
@@ -37,15 +37,15 @@ p{
 	float: left;
 	text-align: left;
 	text-indent: 25px;
-	background: linear-gradient(45deg,#5e3613,#7c5029);
+	background: linear-gradient(45deg,#8d8e8f,#9d9e9e);
 	box-shadow: 2px 2px 2px #4b2b0f;
 }
 
 h2{
 	font-size: 40;
 	margin-left: 30px;
-	color:#011a30;
-	text-shadow: 2px 2px 2px #666363;
+	color:#b38940;
+	text-shadow: 2px 2px 2px #8b6e3a;
 	letter-spacing: 1.5px;
 }
 
