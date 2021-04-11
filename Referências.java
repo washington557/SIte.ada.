@@ -15,3 +15,9 @@ https://img2.gratispng.com/20180714/xx/kisspng-adafruit-industries-ada-lovelace-
 http://www.turfebrasil.not.br/dulce_07.jpg
 https://www.blogs.unicamp.br/cienciapelosolhosdelas/wp-content/uploads/sites/53/2016/09/adalovelaceday.jpg
 https://flxt.tmsimg.com/assets/p66315_v_v9_aa.jpg
+Pag3:http://www.ime.unicamp.br/~apmat/ada-lovelace/
+http://ncd.ufes.br/index.php/2019/03/08/voce-sabia-quem-foi-ada-lovelace/
+https://medium.com/institutohub/mulheres-em-steam-ada-lovelace-a-mulher-que-escreveu-o-primeiro-algoritmo-a6a0add482fe
+https://gobacklog.com/blog/curiosidades-sobre-ada-lovelace/
+https://canaltech.com.br/curiosidades/mulheres-historicas-ada-lovelace-a-primeira-programadora-de-todos-os-tempos-71395/
+http://ncd.ufes.br/index.php/2019/03/08/voce-sabia-quem-foi-ada-lovelace/
