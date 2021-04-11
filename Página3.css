@@ -9,7 +9,9 @@ h1{
 
 body{
 	
-	background: linear-gradient(#02233f,#011526);
+	background: linear-gradient(#012f58,#011526);
+	font-family: "Ubunto", sans-serif;
+	
 	
 }
 
@@ -37,7 +39,7 @@ p{
 	float: left;
 	text-align: left;
 	text-indent: 25px;
-	background: linear-gradient(45deg,#8d8e8f,#9d9e9e);
+	background: linear-gradient(45deg,#858688,#9d9e9e);
 	box-shadow: 2px 2px 2px #4b2b0f;
 }
 
